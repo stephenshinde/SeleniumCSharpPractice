@@ -11,14 +11,11 @@ namespace AutomationPractice
     public class Tests
     {
         public IWebDriver driver;
+      
         
 
 
-        [OneTimeSetUp]
-        public void ExtentStart()
-        {
-
-        }
+   
         [SetUp]
         public void Launch()
         {
