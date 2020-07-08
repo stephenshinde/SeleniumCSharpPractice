@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationPractice", "AutomationPractice\AutomationPractice.csproj", "{6529B35E-6639-41CE-BFA3-550AF1D60191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6529B35E-6639-41CE-BFA3-550AF1D60191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6529B35E-6639-41CE-BFA3-550AF1D60191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6529B35E-6639-41CE-BFA3-550AF1D60191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6529B35E-6639-41CE-BFA3-550AF1D60191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
