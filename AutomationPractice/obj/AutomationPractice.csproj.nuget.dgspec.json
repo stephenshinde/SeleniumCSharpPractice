@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/a1221453/Projects/AutomationPractice/AutomationPractice/AutomationPractice.csproj": {}
+    "C:\\Users\\antho\\Source\\Repos\\SeleniumCSharpPractice\\AutomationPractice\\AutomationPractice.csproj": {}
   },
   "projects": {
-    "/Users/a1221453/Projects/AutomationPractice/AutomationPractice/AutomationPractice.csproj": {
+    "C:\\Users\\antho\\Source\\Repos\\SeleniumCSharpPractice\\AutomationPractice\\AutomationPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/a1221453/Projects/AutomationPractice/AutomationPractice/AutomationPractice.csproj",
+        "projectUniqueName": "C:\\Users\\antho\\Source\\Repos\\SeleniumCSharpPractice\\AutomationPractice\\AutomationPractice.csproj",
         "projectName": "AutomationPractice",
-        "projectPath": "/Users/a1221453/Projects/AutomationPractice/AutomationPractice/AutomationPractice.csproj",
-        "packagesPath": "/Users/a1221453/.nuget/packages/",
-        "outputPath": "/Users/a1221453/Projects/AutomationPractice/AutomationPractice/obj/",
+        "projectPath": "C:\\Users\\antho\\Source\\Repos\\SeleniumCSharpPractice\\AutomationPractice\\AutomationPractice.csproj",
+        "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\antho\\Source\\Repos\\SeleniumCSharpPractice\\AutomationPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/a1221453/.config/NuGet/NuGet.Config"
+          "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +43,10 @@
               "version": "[1.0.3, )"
             },
             "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "Microsoft.TestPlatform.TestHost": {
               "target": "Package",
               "version": "[16.6.1, )"
             },
@@ -86,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
